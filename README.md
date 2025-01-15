@@ -11,9 +11,7 @@
 
 Since I was a kid, I’ve been passionate about computers, fascinated by how they work and the possibilities they create. As I grew older, I discovered the world of hacking and cybersecurity, which sparked my desire to pursue a career in IT. Cybersecurity excites me because it blends problem-solving with the critical role of protecting systems, and I find it both challenging and rewarding.
 
-I am a self-motivated and enthusiastic IT undergraduate with a passion for cybersecurity, digital forensics, and business intelligence. My experience spans across academic projects, foundational programming, and practical tools, giving me the expertise to contribute to dynamic teams.
-
-To further complement my cybersecurity studies, I pursued Business Information Systems to enhance my ability to integrate security with business operations. I am eager to start my career and contribute to the ever-evolving field of cybersecurity.
+I am a self-motivated and enthusiastic IT undergraduate with a passion for cybersecurity, digital forensics, and business intelligence. My experience spans across academic projects, foundational programming, and practical tools, giving me the expertise to contribute to dynamic teams. I am eager to start my career and contribute to the ever-evolving field of cybersecurity.
 
 ---
 
