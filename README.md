@@ -1,6 +1,5 @@
 # Tyrone Mermida Labong
 
-📧 Email: [tyroneml@outlook.com](mailto:tyroneml@outlook.com)  
 🌐 LinkedIn: [linkedin.com/in/tyroneml](https://www.linkedin.com/in/tyroneml)  
 
 ---
