@@ -7,8 +7,9 @@
 ## 👨‍💻 About Me
 
 📍 Singapore 🇸🇬  
+📍 Murdoch University Singapore (Graduating: April 2025)  
 🎓 Bachelor of Information Technology in Cyber Security & Forensics and Business Information Systems  
-📍 Murdoch University Singapore (Graduating: April 2025)
+
 
 Since I was a kid, I’ve been passionate about computers, fascinated by how they work and the possibilities they create. As I grew older, I discovered the world of hacking and cybersecurity, which sparked my desire to pursue a career in IT. Cybersecurity excites me because it blends problem-solving with the critical role of protecting systems, and I find it both challenging and rewarding.
 
