@@ -34,7 +34,7 @@ I'm a self-motivated and enthusiastic IT undergraduate with a passion for cybers
 
 ### **Project Management & Analysis**
 - Systems Analysis, Business Intelligence, Risk Management  
-- Tools: Microsoft Office, Report Writing, Attention to Detail  
+- Tools: Microsoft Office
 
 ---
 
