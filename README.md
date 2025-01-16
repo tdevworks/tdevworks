@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-📍 Singapore 🇸🇬
+📍 Singapore 🇸🇬  
 🎓 Bachelor of Information Technology in Cyber Security & Forensics and Business Information Systems  
 📍 Murdoch University Singapore (Graduating: April 2025)
 
