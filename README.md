@@ -13,7 +13,7 @@
 
 Since I was a kid, I’ve been passionate about computers, fascinated by how they work and the possibilities they create. As I grew older, I discovered the world of hacking and cybersecurity, which sparked my desire to pursue a career in IT. Cybersecurity excites me because it blends problem-solving with the critical role of protecting systems, and I find it both challenging and rewarding.
 
-I'm a self-motivated and enthusiastic IT graduate with a passion for cybersecurity, digital forensics, and business intelligence. I have a solid foundation in cybersecurity, digital forensics and business information systems, complemented by practical experience gained through academic research and industry-relevant projects. I am eager to start my career and contribute to the ever-evolving field of cybersecurity.
+I'm a self-motivated and enthusiastic IT graduate with a passion for cybersecurity and digital forensics. I have a solid foundation in cybersecurity, digital forensics and business information systems, complemented by practical experience gained through academic research and industry-relevant projects. I am eager to start my career and contribute to the ever-evolving field of cybersecurity.
 
 ---
 
@@ -64,8 +64,8 @@ I'm a self-motivated and enthusiastic IT graduate with a passion for cybersecuri
 ---
 
 ## 📈 Stats & Insights
-- 🔑 **Core Focus Areas:** Cybersecurity, Forensics, Business Intelligence  
-- 🌟 **Goal:** To leverage my skills in a challenging internship or team environment that fosters growth and innovation.
+- 🔑 **Core Focus Areas:** Cybersecurity, Digital Forensics, Business Information Systems 
+- 🌟 **Goal:** Contribute to a dynamic team environment, develop professional expertise, and apply learned skills to real-world challenges in the IT sector
 
 ---
 
@@ -75,7 +75,7 @@ I'm a self-motivated and enthusiastic IT graduate with a passion for cybersecuri
 ---
 
 ### 👾 Repository Purpose
-This repository showcases my technical skills, academic projects, and passion for cybersecurity and digital forensics. Explore my work, and feel free to collaborate or connect.
+This repository showcases my personal works, technical skills, academic projects. Explore and feel free to connect.
 
 
 <!--
