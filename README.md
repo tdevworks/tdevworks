@@ -40,12 +40,15 @@ I'm a self-motivated and enthusiastic IT graduate with a passion for cybersecuri
 
 ## 📂 Key Projects
 
-### **🔐 Detection and Mitigation of ZeroLogon (CVE-2020-1472)**
+### **🛠️ Development of a Student Self and Peer Evaluation Web Portal**
+- Led Requirements and Analysis, front-end development, and authored key components of the System Design Document such as Use Case and Sequence diagrams for system workflows.
+  
+### **🔐 Exploitation, Detection and Mitigation of ZeroLogon (CVE-2020-1472)**
 - Developed detection techniques using **Suricata IDS** and Windows Event Viewer for log analysis.
 - Proposed mitigation strategies: Windows Updates, MFA, and network segmentation.
 
 ### **📊 Business Intelligence for Green Technology and Sustainability**
-- Built PowerBI dashboards using public datasets aligned with **UN SDG 11 (Sustainable Cities and Communities)**.  
+- Built PowerBI dashboards using public datasets aligned with UN SDG 11.  
 - Designed dimensional models and data dictionaries to optimise business insights for green technology.
 
 ### **🔍 Digital Forensics Investigation of Artwork Theft**
@@ -56,10 +59,11 @@ I'm a self-motivated and enthusiastic IT graduate with a passion for cybersecuri
 ### **🛫 Database Implementation for a Fictional Airline Operation in Oracle**
 - Designed an Entity-Relationship diagram and implemented a database in Oracle.
 - Automated constraints and relationships using SQL.
+- Implemented a comprehensive database system for a fictional airline company.
 
 ### **💻 Exploitation of SMBGhost (CVE-2020-0796)**
 - Simulated a privilege escalation attack using Python in a controlled environment.
-- Proposed practical prevention measures for enterprise environments.
+- Proposed practical prevention measures for enterprise environments: disabling SMB3 compression and blocking TCP port 445.
 
 ---
 
